@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @seifhossam33
-- 👀 I’m interested in Software Engineering and Machine Learning
-- 🌱 I’m currently learning Both
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Software Engineering
 - 📫 How to reach me "seifhossam12@gmail.com"
 
 <!---
